@@ -104,7 +104,7 @@ The model's 76% precision means that some recipes predicted to generate high tra
 
 | File | Description |
 |---|---|
-| [`Recipe_Site_Traffic.ipynb`](Recipe_Site_Traffic.ipynb) | Data validation, exploratory analysis, model development, evaluation, and recommendations |
+| [`recipe_traffic_analysis.ipynb`](recipe_traffic_analysis.ipynb) | Data validation, exploratory analysis, model development, evaluation, and recommendations |
 
 The source dataset is not included in this repository. The notebook retains its analytical outputs but requires the original local dataset to rerun.
 
